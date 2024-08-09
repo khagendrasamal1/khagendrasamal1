@@ -10,6 +10,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=khagendrasamal1&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4)
 
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=khagendrasamal1&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 ## 🌟 Random Quote
 <p align="center" style="font-family: 'Courier New', Courier, monospace; font-size: 24px; color: #4A90E2;">
   "Forget about goals, focus on system instead." - Atmoic Habits by James Clear
