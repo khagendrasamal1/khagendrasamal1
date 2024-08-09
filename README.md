@@ -23,6 +23,6 @@
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" alt="visualstudio" width="40" height="40"/> </a> 
 <a href="https://www.jflap.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jflap/jflap-original.svg" alt="jflap" width="40" height="40"/> </a> 
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Power_BI_logo.svg/1200px-Power_BI_logo.svg.png" alt="powerbi" width="40" height="40"/> </a> 
-<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Microsoft_Excel_logo_%282007%E2013_2019%29.svg/1200px-Microsoft_Excel_logo_%282007%E2019%29.svg.png" alt="excel" width="40" height="40"/> </a> 
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Microsoft_Excel_logo_%282007%E2013_2019%29.svg/1200px-Microsoft_Excel_logo_%282007%E2019%29.svg.png](https://www.bing.com/images/search?q=excel%20svg%20icon&FORM=IQFRBA&id=CD5DC3F6F3F3C2A5B8C2161BAD1B72B5945C56F4)" alt="excel" width="40" height="40"/> </a> 
 
 
