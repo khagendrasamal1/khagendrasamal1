@@ -19,7 +19,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=khagendrasamal1&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## 🌟 Random Quote
-<img src="./trust the process.png" alt="50-Day LeetCode Badge" width="200"/>
+<img src="./trust the process.png" alt="50-Day LeetCode Badge" width="500"/>
 
 ## 👀 Profile Views
 [![](https://visitcount.itsvg.in/api?id=khagendrasamal1&icon=0&color=1)](https://visitcount.itsvg.in)
