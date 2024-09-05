@@ -3,25 +3,25 @@
 
 ## 🌐 Socials:
 <a href="https://linkedin.com/in/khagendrasamal">
-  <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" width="40" height="40" alt="LinkedIn"/>
+  <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" width="40" height="40" alt="LinkedIn" style="border: none;"/>
 </a>
 <a href="https://kaggle.com/khagendrasamal">
-  <img src="https://github.com/khagendrasamal1/khagendrasamal1/raw/main/4373210_kaggle_logo_logos_icon.png" width="40" height="40" alt="Kaggle"/>
+  <img src="https://github.com/khagendrasamal1/khagendrasamal1/raw/main/4373210_kaggle_logo_logos_icon.png" width="40" height="40" alt="Kaggle" style="border: none;"/>
 </a>
 <a href="https://instagram.com/a1ok_sama1">
-  <img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" width="40" height="40" alt="Instagram"/>
+  <img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" width="40" height="40" alt="Instagram" style="border: none;"/>
 </a>
 <a href="https://twitter.com/khagendrasamal">
-  <img src="https://img.icons8.com/?size=100&id=yoQabS8l0qpr&format=png&color=000000" width="40" height="40" alt="Twitter"/>
+  <img src="https://img.icons8.com/?size=100&id=yoQabS8l0qpr&format=png&color=000000" width="40" height="40" alt="Twitter" style="border: none;"/>
 </a>
 <a href="https://www.snapchat.com/add/khagendrasamal">
-  <img src="https://img.icons8.com/?size=100&id=KrtKMa6Fduil&format=png&color=000000" width="40" height="40" alt="Snapchat"/>
+  <img src="https://img.icons8.com/?size=100&id=KrtKMa6Fduil&format=png&color=000000" width="40" height="40" alt="Snapchat" style="border: none;"/>
 </a>
 <a href="https://auth.geeksforgeeks.org/user/khagendra_1">
-  <img src="https://img.icons8.com/?size=100&id=AbQBhN9v62Ob&format=png&color=000000" width="40" height="40" alt="GeeksforGeeks"/>
+  <img src="https://img.icons8.com/?size=100&id=AbQBhN9v62Ob&format=png&color=000000" width="40" height="40" alt="GeeksforGeeks" style="border: none;"/>
 </a>
 <a href="https://leetcode.com/khagendra_samal_1">
-  <img src="https://github.com/khagendrasamal1/khagendrasamal1/raw/main/leetcode.png" width="40" height="40" alt="LeetCode"/>
+  <img src="https://github.com/khagendrasamal1/khagendrasamal1/raw/main/leetcode.png" width="40" height="40" alt="LeetCode" style="border: none;"/>
 </a>
 
 # 💻 Tech Stack:
