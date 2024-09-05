@@ -14,7 +14,7 @@
 <a href="https://twitter.com/khagendrasamal">
   <img src="https://img.icons8.com/?size=100&id=yoQabS8l0qpr&format=png&color=000000" width="40" height="40" alt="Twitter" style="border: none;"/>
 </a>
-<a href="https://www.snapchat.com/add/khagendrasamal">
+<a href="https://www.snapchat.com/add/a1ok_sama1">
   <img src="https://img.icons8.com/?size=100&id=KrtKMa6Fduil&format=png&color=000000" width="40" height="40" alt="Snapchat" style="border: none;"/>
 </a>
 <a href="https://auth.geeksforgeeks.org/user/khagendra_1">
