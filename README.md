@@ -1,5 +1,5 @@
 # Hi👋🏻, I'm Khagendra Samal 
-🔭 Currently, I'm exploring Data Analytics.<br>🌱 Learning DSA and practicing questions.<br>📊 Turning data into insights.<br>📖 Book worm.<br>⚡ Fun fact: The future is data-driven.<br>✉️ Connect with me: [khagendrasamal8@gmail.com](mailto:khagendrasamal8@gmail.com)<br>
+🔭 Currently, I'm exploring Data Analytics.<br>🌱 Learning DSA and practicing questions.<br>📊 Turning data into insights.<br>📖 Book worm.<br>⚡ Fun fact: The future is data-driven.<br>
 
 ## 🌐 Socials:
 <a href="https://khagendrasamal1.github.io/Portfolio/">
