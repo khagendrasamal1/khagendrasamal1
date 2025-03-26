@@ -38,6 +38,3 @@
 
 ## 🌟 Random Quote
 <img src="./trust the process.png" alt="50-Day LeetCode Badge" width="500"/>
-
-## 👀 Profile Views
-[![](https://visitcount.itsvg.in/api?id=khagendrasamal1&icon=0&color=1)](https://visitcount.itsvg.in)
